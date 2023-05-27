@@ -1,6 +1,6 @@
 # Rust Implementation of [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
-![Final render](./render.ppm)
+![Final render](./render.png)
 
 ## Usage
 ````bash
